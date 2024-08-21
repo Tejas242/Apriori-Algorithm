@@ -27,5 +27,3 @@ A total of 100 transactions are generated, with each transaction containing a ra
 1. **Understand the Apriori Algorithm**: By implementing the algorithm from scratch, we'll gain a deep understanding of how it works.
 2. **Identify Frequent Itemsets**: We will identify the most frequent itemsets in the dataset and understand their importance in market basket analysis.
 3. **Optimize with a Larger Dataset**: We will run the algorithm on a larger dataset to see how it performs with more data and higher support thresholds.
-
-Let's begin by implementing the algorithm and applying it to our dataset.
